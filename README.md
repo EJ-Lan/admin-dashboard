@@ -2,7 +2,7 @@
 
 ## About
 
-A simple static admin-dashboard made with HTML and CSS. This is a static page to practice laying out websites with CSS Grid
+A simple static admin-dashboard made with HTML and CSS. This is a static page to practice laying out websites with CSS Grid.
 
 ## Technologies Used
 
