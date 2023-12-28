@@ -1,2 +1,19 @@
 # admin-dashboard
-A Simple Admin Dashboard Make With HTML and CSS
+
+## About
+
+A simple static admin-dashboard made with HTML and CSS. This is a static page to practice 
+
+## Technologies Used
+
+- **HTML**: Used to structure the calculator interface.
+- **CSS**: Employed to style the calculator, enhancing its visual appeal.
+
+## Getting Started
+
+To use the admin-dashboard, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone git@github.com:[Your Username]/admin-dashboard.git
+   ```
