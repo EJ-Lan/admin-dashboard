@@ -15,5 +15,5 @@ To use the admin-dashboard, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:[Your Username]/admin-dashboard.git
+   git clone git@github.com:EJ-Lan/admin-dashboard.git
    ```
